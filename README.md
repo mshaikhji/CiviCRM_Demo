@@ -19,7 +19,7 @@ E2E Test written in Cypress with JavaScript
 
 ```
 - clone this repo to a local directory
--
+- git clone https://github.com/mshaikhji/CiviCRM_Demo.git
 - cd into the cloned repo
 - cd zaapi
 - install the node_modules
