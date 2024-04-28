@@ -2,6 +2,8 @@
 
 E2E Test written in Cypress with JavaScript
 
+![Example Image](https://drive.google.com/uc?id=1OjAYtNxMrgxYvAnGyMgE4A7BThXRnks9)
+
 ## Page objects
 
 - Page Objects and Locators in cypress/support/pageObjects : Contains all logic for actions to be performed on each page.
